@@ -1,0 +1,3 @@
+customer_id,customer_name,product_id,product_name,category,total_sale_amount,sale_date,quantity_sold,discount
+1,John Doe,1,Laptop,Electronics,3600,01-10-2024,3,0
+2,Jane Smith,2,Headphones,Electronics,750,02-10-2024,5,0
