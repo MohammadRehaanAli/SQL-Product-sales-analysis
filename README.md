@@ -17,15 +17,18 @@ The dataset consists of:
 
 📊 Tableau Dashboards
 The Tableau visualization showcases:
-✅ Total Sales by Product & Category – Identify high-performing products.
-✅ Sales Trends Over Time – Spot seasonal patterns in sales.
-✅ Customer Purchase Behavior – Understand customer spending patterns.
+-  ✅ Total Sales by Product & Category – Identify high-performing products.
+-  ✅ Sales Trends Over Time – Spot seasonal patterns in sales.
+-  ✅ Customer Purchase Behavior – Understand customer spending patterns.
 
 🚀 Future Improvements
-🔹 Expand dataset with customer demographics to analyze spending patterns.
-🔹 Implement machine learning models to predict future sales trends.
-🔹 Optimize inventory management based on demand patterns.
+-  🔹 Expand dataset with customer demographics to analyze spending patterns.
+-  🔹 Implement machine learning models to predict future sales trends.
+-  🔹 Optimize inventory management based on demand patterns.
 
 📌 Author
 👤 Mohammad Rehaan Ali
+
+
+
 📧 Email: rehaan06504@gmail.com
